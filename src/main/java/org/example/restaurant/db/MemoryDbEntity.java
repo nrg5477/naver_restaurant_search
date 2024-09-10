@@ -10,4 +10,5 @@ import lombok.NoArgsConstructor;
 public class MemoryDbEntity {
 
     protected int index;
+    //
 }
